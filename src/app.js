@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Header from './components/Header'
+import Header from './components/3'
 
 export default function App() {
     return(
